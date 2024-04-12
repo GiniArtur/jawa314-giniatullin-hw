@@ -1,0 +1,10 @@
+public FileWriter(String fileName) throws IOException {
+        super(new FileOutputStream(fileName));
+    }
+
+    /**
+     * Constructs a {@code FileWriter} given a file name and a boolean indicating
+     * whether to append the data written, using the
+     * {@linkplain Charset#defaultCharset() default charset}.
+    /**
+****************************************///////**************************************

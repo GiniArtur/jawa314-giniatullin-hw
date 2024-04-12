@@ -1,0 +1,8 @@
+if {@code true}, then bytes will be written
+     *                      to the end of the file rather than the beginning
+     * @throws IOException  if the file exists but is a directory rather than
+     *                  a regular file, does not exist but cannot be created,
+     *                  or cannot be opened for any other reason
+     **************//////****************************************
+
+

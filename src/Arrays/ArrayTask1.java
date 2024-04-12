@@ -1,6 +1,6 @@
 package Arrays;
 
-import java.util.Random;
+
 
 public class ArrayTask1 {                     // TODO Java314_Гиниятуллин_Массивы_задача1
     public static void main(String[] args) {
@@ -19,7 +19,7 @@ public class ArrayTask1 {                     // TODO Java314_Гиниятулл
             array2[j] = array1[4-j];
             System.out.print(array2[j] + "\t");
 
-        }fdbdb
+        }//Еще одно изменение для закрепления
     }
 }
 
