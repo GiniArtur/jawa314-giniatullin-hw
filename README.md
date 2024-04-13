@@ -4,4 +4,4 @@
 а) git status
 б) git add .
 в) git commit -m 'Какое-то сообщение'
-г) git push
+г) //git pusр     ** добавил //
