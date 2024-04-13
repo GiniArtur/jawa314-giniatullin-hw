@@ -2,7 +2,7 @@
 <project version="4">
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="Jawa314_Giniyatullin" options="--add-exports java.base/jdk.internal.icu.impl=ALL-UNNAMED" />
+      <module name="Jawa314_Giniyatullin_HW" options="--add-exports java.base/jdk.internal.icu.impl=ALL-UNNAMED" />
     </option>
   </component>
 </project>
